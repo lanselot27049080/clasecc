@@ -1,0 +1,29 @@
+p {
+    font-size: 25px;
+    font-family: "lucida handwriting";
+    font-weight: bold;
+    color:#8226F0;
+    text-align: left;
+
+
+}
+
+body {
+    background-color:#522EFB;
+}
+
+header {
+    background-color:#26F0ED;
+
+}
+
+
+main {
+    background-color:#26F0ED;
+
+}
+
+footer {
+    background-color:#26F0ED;
+
+}
