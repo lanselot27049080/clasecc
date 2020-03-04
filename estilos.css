@@ -24,6 +24,10 @@ main {
 }
 
 footer {
+    font-size: 28px;
+    font-family: "lucida handwriting";
+    font-weight: bold;
+    color:#8226F0;
     background-color:#26F0ED;
 
 }
