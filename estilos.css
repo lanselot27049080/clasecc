@@ -1,9 +1,9 @@
 p {
     font-size: 25px;
     font-family: "lucida handwriting";
-    font-weight: bold;
+    font-weight: normal;
     color:#8226F0;
-    text-align: left;
+    text-align: center;
 
 
 }
@@ -13,7 +13,13 @@ body {
 }
 
 header {
+    font-size: 28px;
+    font-family: "lucida handwriting";
+    font-weight: normal;
+    color:#8226F0;
+    text-align: center;
     background-color:#26F0ED;
+
 
 }
 
@@ -26,8 +32,9 @@ main {
 footer {
     font-size: 28px;
     font-family: "lucida handwriting";
-    font-weight: bold;
+    font-weight: normal;
     color:#8226F0;
+    text-align: center;
     background-color:#26F0ED;
 
 }
